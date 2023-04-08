@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "Begin",
+      "targetTime": 0.5029166666666666
+    },
+    {
+      "name": "Point",
+      "targetTime": 1.4597916666666666
+    },
+    {
+      "name": "Line",
+      "targetTime": 2.648987926136363
+    },
+    {
+      "name": "Point2",
+      "targetTime": 5.310731309379906
+    },
+    {
+      "name": "Zoom",
+      "targetTime": 7.503514431627606
+    }
+  ],
+  "seed": 2530407258
+}
