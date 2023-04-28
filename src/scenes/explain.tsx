@@ -151,7 +151,7 @@ export default makeScene2D(function* (view) {
             />,
             <Latex
                 ref={calc}
-                tex={'c = \\sqrt{100^2 + 50^2} = 112'}
+                tex={'c = \\sqrt{100^2 + 50^2} \\approx 112'}
                 y={500}
                 x={750}
                 width={500}
